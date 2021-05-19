@@ -1,5 +1,6 @@
 var theUrl = 'http://localhost/dvwa/vulnerabilities/csrf/'
 var pass = 'admin'
+alert('working');
 if (window.XMLHttpRequest) {
   xmlhttp = new XMLHttpRequest()
 } else {
